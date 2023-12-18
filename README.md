@@ -75,10 +75,12 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 **PIRNet: Privacy-Preserving Image Restoration Network via Wavelet Lifting**
 - Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Deng_PIRNet_Privacy-Preserving_Image_Restoration_Network_via_Wavelet_Lifting_ICCV_2023_paper.html
 - Code: https://github.com/gclonghorn/PIRNet
-
+- ![Alt text](framework/PIRNet.jpg)
+  
 **Focal Network for Image Restoration**
 - Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Cui_Focal_Network_for_Image_Restoration_ICCV_2023_paper.html
 - Code: https://github.com/c-yn/FocalNet
+- ![Alt text](framework/PIRNet.jpg)
 
 **Learning Image-Adaptive Codebooks for Class-Agnostic Image Restoration**
 - Paper: https://arxiv.org/abs/2306.06513
