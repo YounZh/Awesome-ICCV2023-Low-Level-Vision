@@ -113,6 +113,9 @@ A Collection of Papers and Codes in ICCV2023 related to Low-Level Vision
 - Paper: https://arxiv.org/abs/2308.14221
 - Code: https://github.com/CXH-Research/DocShadow-SD7K
 - Tags: Document Shadow Removal
+- Framework
+- ![Alt text](famework/High-Resolution Document Shadow Removal via A Large-Scale Real-WorldDataset and A Frequency-Aware Shadow Erasing Net.jpg)
+
 
 **Boundary-Aware Divide and Conquer: A Diffusion-Based Solution for Unsupervised Shadow Removal**
 - Paper: https://openaccess.thecvf.com/content/ICCV2023/html/Guo_Boundary-Aware_Divide_and_Conquer_A_Diffusion-Based_Solution_for_Unsupervised_Shadow_ICCV_2023_paper.html
